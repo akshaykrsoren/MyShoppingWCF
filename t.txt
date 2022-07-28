@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 heloo akshay how are you jamshed pur
 
+=======
+heloo akshay how are you
+ghathsila
+>>>>>>> 25bd2926328ef5a8fa528da950e13edb4a081da2
